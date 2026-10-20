@@ -1,4 +1,13 @@
 .env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.pyc
 .ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
 area_population_clean.csv
 community_health_activity_clean.csv
+community_health_activity_with_population.csv
