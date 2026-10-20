@@ -1,0 +1,4 @@
+.env
+.ipynb_checkpoints/
+area_population_clean.csv
+community_health_activity_clean.csv
